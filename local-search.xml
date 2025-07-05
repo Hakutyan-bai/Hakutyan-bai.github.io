@@ -24,6 +24,20 @@
     <content type="html"><![CDATA[<p>这是一个可以自动喂食周围牛、羊和猪，以及自动补种农作物的Mod</p><h2 id="特性"><a href="#特性" class="headerlink" title="特性"></a>特性</h2><ul><li>自动检测并喂养附近的牛、羊、猪</li><li>支持 F6 键一键开关自动喂养功能</li><li>支持 F7 键一键开关农作物补种功能</li><li>支持 F8 键打开自动喂养配置GUI</li><li>开关时有屏幕提示</li></ul><h2 id="安装方法"><a href="#安装方法" class="headerlink" title="安装方法"></a>安装方法</h2><ol><li>安装  <a href="https://modrinth.com/mod/fabric-api">Fabric API</a>（版本需与游戏一致）。</li><li>下载本模组 jar 文件，放入 <code>.minecraft/mods/</code> 文件夹。</li><li>启动游戏，进入世界即可自动体验。</li></ol><h2 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a>使用说明</h2><ul><li>默认自动喂养功能关闭。</li><li>默认农作物补种功能开启。</li><li>默认为关闭状态，按下 F6 可随时开关自动喂养，屏幕左下角会有“自动喂养已开启&#x2F;关闭”提示。</li><li>只需将小麦（牛、羊）或胡萝卜（猪）放在快捷栏，靠近动物即可自动喂养。</li><li>只需对成熟的农作物右键即可完成收获与补种，支持小麦、胡萝卜、土豆、地狱疣。</li></ul><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><ul><li>本模组为客户端模组，无需安装在服务器端。</li><li>仅支持 Fabric 1.21.6 及对应 Fabric API。</li><li>仅支持牛、羊、猪三种动物。</li></ul><h2 id="常见问题"><a href="#常见问题" class="headerlink" title="常见问题"></a>常见问题</h2><ol><li><p><strong>游戏崩溃或无法启动？</strong></p><ul><li>请确认 Fabric API 及本模组均为 1.21.6 版本。</li><li>检查是否有其他模组冲突，尝试单独运行本模组。</li></ul></li><li><p><strong>自动喂养无效？</strong></p><ul><li>请确保快捷栏有对应食物，且靠近目标动物。</li><li>检查是否已按 F6 关闭自动喂养。</li></ul></li><li><p><strong>发包过多被踢出服务器？</strong></p><ul><li>最好是拿着对应种子对着农作物右键收获，否则可能发包过多被踢出服务器。</li></ul></li></ol>]]></content>
     
     
+    <categories>
+      
+      <category>MC</category>
+      
+      <category>Mod</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>教程</tag>
+      
+    </tags>
     
   </entry>
   
