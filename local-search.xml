@@ -102,31 +102,6 @@
   
   
   <entry>
-    <title>BlogForNuxt3</title>
-    <link href="/2025/07/06/BlogForNuxt3/"/>
-    <url>/2025/07/06/BlogForNuxt3/</url>
-    
-    <content type="html"><![CDATA[<h1 id="BlogForNuxt3"><a href="#BlogForNuxt3" class="headerlink" title="BlogForNuxt3"></a>BlogForNuxt3</h1><h2 id="✨-作者"><a href="#✨-作者" class="headerlink" title="✨ 作者"></a>✨ 作者</h2><p>▶ GitHub主页：<a href="http://upload.sakura.ink/file/index.html">Github</a>  </p><h2 id="📦-项目"><a href="#📦-项目" class="headerlink" title="📦 项目"></a>📦 项目</h2><p>▶ GitHub项目：<a href="https://github.com/Hongxi-ovo/BlogForNuxt3">Github</a>  </p><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs cmd">npm install<br></code></pre></td></tr></table></figure><h2 id="启动"><a href="#启动" class="headerlink" title="启动"></a>启动</h2><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs cmd">npm run dev<br></code></pre></td></tr></table></figure><p>安装的插件有：</p><ul><li><code>@nuxt/icon</code> — 用于在 Nuxt 应用中方便地使用图标</li><li><code>@nuxt/fonts</code> — 管理和加载自定义字体</li><li><code>@nuxtjs/color-mode</code> — 支持暗色&#x2F;亮色模式切换</li><li><code>@nuxt/ui</code> — 提供基于 Nuxt 的 UI 组件库</li><li><code>@nuxtjs/tailwindcss</code> — 集成 Tailwind CSS，便于快速开发响应式界面</li><li><code>@prisma/nuxt</code> — 集成 Prisma ORM，方便数据库操作</li><li><code>animate.css</code> — 提供丰富的 CSS 动画效果，便于为页面元素添加动效</li><li><code>md-editor-v3</code> — 强大的 Markdown 编辑器组件，支持实时预览和多种扩展</li><li><code>lenis</code> — 平滑滚动库，用于提升页面滚动体验</li><li><code>valibot</code> — 轻量级数据验证库，便于表单和数据校验</li><li><code>sass-embedded</code> — 用于编译 Sass&#x2F;SCSS，提升样式开发效率</li><li><code>nuxt-nodemailer</code> — 集成 Nodemailer，便于发送邮件</li><li><code>bcrypt</code> — 用于密码加密</li></ul><p>icon库：<br><a href="https://icones.js.org/collection/logos">https://icones.js.org/collection/logos</a></p>]]></content>
-    
-    
-    <categories>
-      
-      <category>Blog</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>Blog</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>Y.C.W 筱雲の创意工坊服务器</title>
     <link href="/2025/07/06/Y.C.W%20%E7%AD%B1%E9%9B%B2%E3%81%AE%E5%88%9B%E6%84%8F%E5%B7%A5%E5%9D%8A%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     <url>/2025/07/06/Y.C.W%20%E7%AD%B1%E9%9B%B2%E3%81%AE%E5%88%9B%E6%84%8F%E5%B7%A5%E5%9D%8A%E6%9C%8D%E5%8A%A1%E5%99%A8/</url>
