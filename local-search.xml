@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>MoeMail临时邮箱</title>
+    <link href="/2025/07/08/MoeMail/"/>
+    <url>/2025/07/08/MoeMail/</url>
+    
+    <content type="html"><![CDATA[<h1 id="📮-MoeMail：基于-Mail-tm-的轻量级临时邮箱平台"><a href="#📮-MoeMail：基于-Mail-tm-的轻量级临时邮箱平台" class="headerlink" title="📮 MoeMail：基于 Mail.tm 的轻量级临时邮箱平台"></a>📮 MoeMail：基于 Mail.tm 的轻量级临时邮箱平台</h1><p><a href="https://github.com/beilunyang/moemail">MoeMail</a> 是一个现代化、界面优雅的临时邮箱系统，基于 Mail.tm API 构建，并集成 Vue 前端和 Golang 后端，部署方便、使用顺畅，非常适合需要匿名收信或临时注册的场景。</p><hr><h2 id="✨-项目特点"><a href="#✨-项目特点" class="headerlink" title="✨ 项目特点"></a>✨ 项目特点</h2><ul><li>🌐 <strong>临时邮箱支持</strong>：基于 <a href="https://mail.tm/">mail.tm</a> 提供的免费临时邮箱 API</li><li>🖥️ <strong>现代前端</strong>：使用 Vue 3 + Tailwind CSS 构建，简洁优雅，响应式设计</li><li>⚡ <strong>高效后端</strong>：Golang 编写，快速、可靠、轻量</li><li>🚀 <strong>开箱即用</strong>：提供 Docker Compose 支持，几行命令即可部署运行</li><li>🔒 <strong>数据不持久化</strong>：匿名接收邮件，无需注册登录，使用即焚</li></ul><hr><h2 id="📦-快速部署"><a href="#📦-快速部署" class="headerlink" title="📦 快速部署"></a>📦 快速部署</h2><p>MoeMail 推荐使用 Docker Compose 部署，简单方便：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs bash">git <span class="hljs-built_in">clone</span> https://github.com/beilunyang/moemail.git<br><span class="hljs-built_in">cd</span> moemail<br><span class="hljs-built_in">cp</span> .env.example .<span class="hljs-built_in">env</span>  <span class="hljs-comment"># 可根据需要修改配置</span><br>docker compose up -d<br></code></pre></td></tr></table></figure><p>默认启动后，前端服务可通过浏览器访问：<br>📬 <code>http://localhost:5173</code></p><hr><h2 id="🖼️-界面展示"><a href="#🖼️-界面展示" class="headerlink" title="🖼️ 界面展示"></a>🖼️ 界面展示</h2><p>前端界面极其简洁清爽，主要功能包括：</p><ul><li>随机邮箱地址生成</li><li>邮件列表显示</li><li>HTML 和纯文本内容预览</li><li>一键复制邮箱 &#x2F; 验证码</li></ul><p>可参考 GitHub 项目的截图：<br>👉 <a href="https://github.com/beilunyang/moemail#screenshot">查看 Screenshot</a></p><hr><h2 id="🛠️-适用场景"><a href="#🛠️-适用场景" class="headerlink" title="🛠️ 适用场景"></a>🛠️ 适用场景</h2><p>MoeMail 特别适合以下场景使用：</p><ul><li>注册网站时避免暴露真实邮箱</li><li>接收一次性验证码或验证邮件</li><li>防止垃圾邮件干扰主邮箱</li><li>测试 Web 项目邮箱通知功能</li></ul><hr><h2 id="📚-项目资源"><a href="#📚-项目资源" class="headerlink" title="📚 项目资源"></a>📚 项目资源</h2><ul><li>GitHub 项目地址：<a href="https://github.com/beilunyang/moemail">https://github.com/beilunyang/moemail</a></li><li>作者主页：<a href="https://github.com/beilunyang">https://github.com/beilunyang</a></li></ul><hr><h2 id="💬-总结评价"><a href="#💬-总结评价" class="headerlink" title="💬 总结评价"></a>💬 总结评价</h2><p>MoeMail 是一个结合了实用性与美观性的临时邮箱工具，部署简单，界面轻快，适合个人用户和开发者测试使用。如果你正在寻找一款可控、可自建的临时邮箱系统，它会是一个非常好的选择！</p><hr>]]></content>
+    
+    
+    <categories>
+      
+      <category>邮箱</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>教程</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Cloud-mail邮箱</title>
     <link href="/2025/07/08/Cloud-mail/"/>
     <url>/2025/07/08/Cloud-mail/</url>
