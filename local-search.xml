@@ -4,6 +4,144 @@
   
   
   <entry>
+    <title>Y.C.W 筱雲の创意工坊服务器整合包指南</title>
+    <link href="/2025/07/23/Y.C.W%20%E7%AD%B1%E9%9B%B2%E3%81%AE%E5%88%9B%E6%84%8F%E5%B7%A5%E5%9D%8A%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%B4%E5%90%88%E5%8C%85%E6%8C%87%E5%8D%97/"/>
+    <url>/2025/07/23/Y.C.W%20%E7%AD%B1%E9%9B%B2%E3%81%AE%E5%88%9B%E6%84%8F%E5%B7%A5%E5%9D%8A%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%B4%E5%90%88%E5%8C%85%E6%8C%87%E5%8D%97/</url>
+    
+    <content type="html"><![CDATA[<ol><li><strong>整合包下载</strong><br>▶ 下载地址：<a href="http://upload.sakura.ink/file/index.html">下载站</a><br>▶ 支持版本：<code>1.20.1</code></li></ol><h2 id="🔧-安装教程"><a href="#🔧-安装教程" class="headerlink" title="🔧 安装教程"></a>🔧 安装教程</h2><h3 id="方式一：懒人包安装（推荐）"><a href="#方式一：懒人包安装（推荐）" class="headerlink" title="方式一：懒人包安装（推荐）"></a>方式一：懒人包安装（推荐）</h3><ol><li>下载整合包压缩文件  </li><li>拖入启动器进行安装（如：<code>HMCL.exe</code> 或 <code>PCL.exe</code>）  </li><li>选择 “| Y.C.W |筱雲の创意工坊” 版本启动游戏</li></ol><h3 id="方式二：手动安装"><a href="#方式二：手动安装" class="headerlink" title="方式二：手动安装"></a>方式二：手动安装</h3><ol><li>安装必需前置：  <ul><li>Forge 版本：<code>47.3.0</code>  <blockquote><p>⚠️ 注意，请不要使用NeoForge，可能出现兼容性问题</p></blockquote></li><li>Minecraft 版本：<code>1.20.1</code></li></ul></li><li>将整合包内的 <code>mods</code> 文件夹复制到游戏目录  </li><li>启动游戏检查模组加载情况</li></ol><h2 id="🚪-进入服务器步骤"><a href="#🚪-进入服务器步骤" class="headerlink" title="🚪 进入服务器步骤"></a>🚪 进入服务器步骤</h2><ol><li>成功启动整合包并登录账号  <blockquote><p>💡 提示：启动游戏需要 3-5 分钟，请耐心等待资源加载完成</p></blockquote></li><li>点击「多人游戏」  </li><li>点击「添加服务器」  <figure class="highlight stylus"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs stylus">服务器地址：mc<span class="hljs-selector-class">.dyn</span><span class="hljs-selector-class">.sakura</span>.ink<br></code></pre></td></tr></table></figure></li><li>双击服务器列表条目进入  </li><li><a href="https://help.sakura.ink/serveriptest0.2.0">觉得卡可以点我查看别的线路</a></li></ol><h2 id="⚠️-常见问题解决"><a href="#⚠️-常见问题解决" class="headerlink" title="⚠️ 常见问题解决"></a>⚠️ 常见问题解决</h2><table><thead><tr><th>问题现象</th><th>解决方案</th></tr></thead><tbody><tr><td>无法连接至服务器</td><td>1. 重新登录正版账号后重启游戏<br>2. <a href="https://help.sakura.ink/serveriptest0.2.0">确认服务器是否在线</a><br>3.截图发给服务器管理员</td></tr><tr><td>模组冲突</td><td>重新覆盖整合包文件</td></tr><tr><td>卡在加载界面</td><td>分配更多内存：最少 6G</td></tr></tbody></table><h2 id="🆘-技术支持"><a href="#🆘-技术支持" class="headerlink" title="🆘 技术支持"></a>🆘 技术支持</h2><ul><li><strong>紧急问题</strong>：QQ群 @管理员  </li><li><strong>BUG 反馈</strong>：QQ群 @管理员</li></ul><blockquote><p>🌟 提示：记得带上问题截图，把问题描述得详细一点，否则我们也无法解决哦！</p></blockquote>]]></content>
+    
+    
+    <categories>
+      
+      <category>Y.C.W 筱雲の创意工坊</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>整合包</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2025/07/23/%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%B5%9E%E5%8A%A9%E5%A5%96%E5%8A%B1%EF%BC%88%E9%80%9A%E7%94%A8%EF%BC%89/"/>
+    <url>/2025/07/23/%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%B5%9E%E5%8A%A9%E5%A5%96%E5%8A%B1%EF%BC%88%E9%80%9A%E7%94%A8%EF%BC%89/</url>
+    
+    <content type="html"><![CDATA[<p>Hakutyan_bai的所有服务器通用赞助奖励<br>由于服务器运行&#x2F;升级需要开销，且服务器仅有收入来源于广大玩家的捐赠，赞助有一定的奖励，具体奖励如下：</p><p>5CNY：浅灰色玩家 ID+白&#x2F;亮灰聊天颜色</p><p>10CNY：任意怪物头颅两颗+浅绿色玩家 ID+白&#x2F;灰&#x2F;浅绿聊天颜色</p><p>20CNY：浅蓝色玩家 ID+白&#x2F;灰&#x2F;浅绿&#x2F;浅蓝聊天颜色</p><p>30CNY：自定义头颅一颗（包括玩家自己）</p><p>50CNY：橙色颜色 ID+有限制的自定义聊天颜色</p><p>80CNY：自定义颜色 ID（除 OP 色）+聊天颜色</p><p>聊天颜色参考图：</p><p>&#x2F;img&#x2F;User-Guide&#x2F;1.png<br>聊天颜色参考图</p><p>服务器打钱二维码:</p><p>&#x2F;img&#x2F;User-Guide&#x2F;2.png<br>支付宝</p><p>&#x2F;img&#x2F;User-Guide&#x2F;3.png<br>微信</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Y.C.W 筱雲の创意工坊服务器条例</title>
+    <link href="/2025/07/23/Y.C.W%20%E7%AD%B1%E9%9B%B2%E3%81%AE%E5%88%9B%E6%84%8F%E5%B7%A5%E5%9D%8A%E6%9D%A1%E4%BE%8B/"/>
+    <url>/2025/07/23/Y.C.W%20%E7%AD%B1%E9%9B%B2%E3%81%AE%E5%88%9B%E6%84%8F%E5%B7%A5%E5%9D%8A%E6%9D%A1%E4%BE%8B/</url>
+    
+    <content type="html"><![CDATA[<h1 id="📜-Y-C-W-筱雲の创意工坊-服务器条例与管理规范"><a href="#📜-Y-C-W-筱雲の创意工坊-服务器条例与管理规范" class="headerlink" title="📜 Y.C.W 筱雲の创意工坊 服务器条例与管理规范"></a>📜 Y.C.W 筱雲の创意工坊 服务器条例与管理规范</h1><blockquote><p><strong>处罚力度与态度高度相关</strong></p><p>若您犯事被其他玩家提醒或质问，请留意聊天栏或群里的 @，否则可能会被视为态度恶劣，加重处罚。</p><p>相反，诚恳且及时的道歉有助于挽回名声，处罚也会相应减轻。</p></blockquote><hr><h2 id="⚠️-游戏内条例"><a href="#⚠️-游戏内条例" class="headerlink" title="⚠️ 游戏内条例"></a>⚠️ 游戏内条例</h2><ul><li>**未加 QQ 群者：**封禁至加群为止。</li><li>**触犯多条条例：**处罚力度叠加。</li><li>**情节严重者：**封禁可能超过 30 天。</li></ul><h3 id="🛑-各类行为对应处罚"><a href="#🛑-各类行为对应处罚" class="headerlink" title="🛑 各类行为对应处罚"></a>🛑 各类行为对应处罚</h3><table><thead><tr><th>违规行为</th><th>处罚说明</th></tr></thead><tbody><tr><td><strong>盗窃他人财物 &#x2F; 导致他人损失</strong></td><td>根据财物价值与归还&#x2F;道歉情况，封禁 0.5 &#x2F; 1 &#x2F; 3 &#x2F; 7 &#x2F; 30 天。若有留言牌说明但仍未及时归还，封禁 0.5 &#x2F; 1 天。</td></tr><tr><td><strong>破坏公&#x2F;私建筑</strong></td><td>视严重程度与态度，封禁 1 &#x2F; 3 &#x2F; 7 &#x2F; 30 天。</td></tr><tr><td><strong>恶意 PvP</strong></td><td>封禁 3 &#x2F; 7 &#x2F; 30 天。</td></tr><tr><td><strong>恶意击杀动物</strong>（非自然生成）</td><td>根据数量与态度，封禁 0.5 &#x2F; 1 &#x2F; 3 &#x2F; 7 天。</td></tr><tr><td><strong>损坏他人机器</strong></td><td>视是否参与修复及态度，给予警告。</td></tr><tr><td><strong>制造恶意陷阱</strong>（针对玩家）</td><td>若未造成死亡且态度良好，可仅警告。</td></tr><tr><td><strong>传播违规信息</strong></td><td>口球 1 &#x2F; 3 天，或封禁 7 &#x2F; 30 天。是否违规请自行掂量。</td></tr><tr><td><strong>辱骂 &#x2F; 人身攻击他人</strong></td><td>视态度，封禁 1 &#x2F; 3 &#x2F; 7 天。</td></tr><tr><td><strong>刷屏行为</strong>（反复发问&#x2F;无意义内容）</td><td>封禁 1 &#x2F; 3 &#x2F; 7 天。</td></tr><tr><td><strong>作弊客户端 &#x2F; Mod</strong></td><td>允许矿透等，但请以“开心”为前提，合理使用。</td></tr><tr><td><strong>未列情况</strong></td><td>管理员将视情况酌情处理，欢迎联系补充。</td></tr></tbody></table><hr><h2 id="⚙️-机械使用细则与建议"><a href="#⚙️-机械使用细则与建议" class="headerlink" title="⚙️ 机械使用细则与建议"></a>⚙️ 机械使用细则与建议</h2><ul><li>避免使用<strong>不可控高频红石</strong>，推荐使用**人控装置（如压力板）**控制循环。</li><li><strong>工业园区</strong>不得建设在主城区域。</li><li>启用大型机器前，请先告知在线玩家，避免卡顿。</li><li><strong>不建议跑图</strong>（避免加载不必要区块）。</li><li>使用<strong>世界吞噬者</strong>时，请在 QQ 群 @管理员说明。</li></ul><hr><h2 id="💰-服务器理赔条例"><a href="#💰-服务器理赔条例" class="headerlink" title="💰 服务器理赔条例"></a>💰 服务器理赔条例</h2><blockquote><p>若因服务器问题造成玩家损失，服务器方将视情况给予理赔。</p></blockquote><hr><h2 id="🏗️-关于工业区建设"><a href="#🏗️-关于工业区建设" class="headerlink" title="🏗️ 关于工业区建设"></a>🏗️ 关于工业区建设</h2><ul><li>建设大型机器（如多红石 &#x2F; 村民 &#x2F; 漏斗）时，<strong>务必在工业区内建设</strong>，且不得临近主城。</li><li>工业区所在区块应避免长期加载。</li><li>使用加载器时，<strong>不使用请关闭</strong>。</li></ul><hr><h2 id="👥-QQ-群管理条例"><a href="#👥-QQ-群管理条例" class="headerlink" title="👥 QQ 群管理条例"></a>👥 QQ 群管理条例</h2><ul><li>多次违规或严重违规，<strong>将直接移出群聊</strong>。</li><li>禁止<strong>网络暴力 &#x2F; 红包口令</strong>，一经发现直接飞机票 + BAN。</li><li>入群请及时将群名片改为<strong>正版 ID</strong>（暂缓实施）。</li><li>禁止过分私聊骚扰其他群成员。</li><li>禁止发送<strong>尺度过大</strong>图片 &#x2F; 视频，发现即撤回并禁言 20 分钟。</li><li>禁止<strong>过度政治&#x2F;社会时事讨论</strong>，违者飞机票处理。</li><li>禁止撕逼 &#x2F; 争吵事件，发现即禁言一天。</li></ul><hr><blockquote><p> 感谢 OurCraft 服务器的条例内容提供了大量参考。</p></blockquote>]]></content>
+    
+    
+    <categories>
+      
+      <category>Y.C.W 筱雲の创意工坊</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>条例</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Y.C.W 筱雲の创意工坊YSM模型上传指南</title>
+    <link href="/2025/07/23/Y.C.W%20%E7%AD%B1%E9%9B%B2%E3%81%AE%E5%88%9B%E6%84%8F%E5%B7%A5%E5%9D%8AYSM%E6%A8%A1%E5%9E%8B%E4%B8%8A%E4%BC%A0%E6%8C%87%E5%8D%97/"/>
+    <url>/2025/07/23/Y.C.W%20%E7%AD%B1%E9%9B%B2%E3%81%AE%E5%88%9B%E6%84%8F%E5%B7%A5%E5%9D%8AYSM%E6%A8%A1%E5%9E%8B%E4%B8%8A%E4%BC%A0%E6%8C%87%E5%8D%97/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <categories>
+      
+      <category>Y.C.W 筱雲の创意工坊</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>YSM模型</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Y.C.W 筱雲の创意工坊服务器命令指南</title>
+    <link href="/2025/07/23/Y.C.W%20%E7%AD%B1%E9%9B%B2%E3%81%AE%E5%88%9B%E6%84%8F%E5%B7%A5%E5%9D%8A%E5%91%BD%E4%BB%A4%E6%8C%87%E5%8D%97/"/>
+    <url>/2025/07/23/Y.C.W%20%E7%AD%B1%E9%9B%B2%E3%81%AE%E5%88%9B%E6%84%8F%E5%B7%A5%E5%9D%8A%E5%91%BD%E4%BB%A4%E6%8C%87%E5%8D%97/</url>
+    
+    <content type="html"><![CDATA[<p>&#x2F;co i<br>&#x2F;co i<br>&#x2F;co i</p><p>当你输入&#x2F;co i并且出现上述提示表示开启了查询模式</p><p>&#x2F;co i<br>&#x2F;co i</p><p>此时，左击或右击方块&#x2F;容器可以查询操作记录。如果有多页，可用&#x2F;co l x（x 为页数）进行翻页操作。<br>再次输入&#x2F;co i 可退出查询模式</p><p>&#x2F;co i<br>&#x2F;co i</p><p>&#x2F;gsit<br>就地坐下，效果如图：</p><p>&#x2F;gsit<br>&#x2F;gsit</p><p>当然你也可以右键台阶&#x2F;楼梯直接坐在上面</p><h3 id="💀-头颅兑换系统"><a href="#💀-头颅兑换系统" class="headerlink" title="💀 头颅兑换系统"></a>💀 头颅兑换系统</h3>   <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">/headdh<br></code></pre></td></tr></table></figure><ul><li><strong>作用</strong>：将凋零骷髅头颅兑换为自己的玩家头颅  </li><li><strong>操作流程</strong>：  <ol><li>手持 <code>凋零骷髅头颅</code>  </li><li>执行指令  </li><li>获得刻有你 ID 的专属头颅</li></ol></li></ul><h3 id="🖼️-隐形展示框"><a href="#🖼️-隐形展示框" class="headerlink" title="🖼️ 隐形展示框"></a>🖼️ 隐形展示框</h3>   <figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs">手持展示框左键<br></code></pre></td></tr></table></figure><ul><li><strong>效果</strong>：兑换成隐形展示框  </li><li><strong>消耗</strong>：1 个普通展示框</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>Y.C.W 筱雲の创意工坊</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>命令</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Y.C.W 筱雲の创意工坊玩家手册</title>
+    <link href="/2025/07/23/Y.C.W%20%E7%AD%B1%E9%9B%B2%E3%81%AE%E5%88%9B%E6%84%8F%E5%B7%A5%E5%9D%8A%E7%8E%A9%E5%AE%B6%E6%89%8B%E5%86%8C/"/>
+    <url>/2025/07/23/Y.C.W%20%E7%AD%B1%E9%9B%B2%E3%81%AE%E5%88%9B%E6%84%8F%E5%B7%A5%E5%9D%8A%E7%8E%A9%E5%AE%B6%E6%89%8B%E5%86%8C/</url>
+    
+    <content type="html"><![CDATA[<h1 id="服务器须知"><a href="#服务器须知" class="headerlink" title="服务器须知"></a>服务器须知</h1><h3 id="游戏内条例请查看-Y-C-W-筱雲の创意工坊-条例"><a href="#游戏内条例请查看-Y-C-W-筱雲の创意工坊-条例" class="headerlink" title="游戏内条例请查看 Y.C.W 筱雲の创意工坊 条例"></a>游戏内条例请查看 <a href="https://your.rule.link/">Y.C.W 筱雲の创意工坊 条例</a></h3><p><strong>Y.C.W 筱雲の创意工坊</strong> 是一个模组生存服务器，没有快速传送，飞行插件。采用困难难度，死亡不掉落。</p><p>对于服务器有任何意见及建议，可随时前往 <a href="https://oopz.cn/i/GrOLdD">OOPZ 频道</a> 留言，或者通过 QQ 私聊管理员。</p><p>服务器暂时对地狱交通不作要求，可自行将主干道延伸到主城。</p><p>勿以恶小而为之，勿以善小而不为 ——《三国志·蜀志传》</p><p>请尊重他人，同时也是在尊重你自己。</p><p>请勿对服务器的公&#x2F;私建筑进行破坏，也请勿破坏他人的劳动成果（包括但不限于盗窃财物、屠杀动物等）。若有不小心损害他人财物的情况，请在游戏中或通过 QQ 私聊与当事人说明，或者立一个告示牌加以说明。</p><p>具体细则请参考游戏内 <a href="https://your.rule.link/">Y.C.W 筱雲の创意工坊 条例</a>。</p><hr><h3 id="行为规范"><a href="#行为规范" class="headerlink" title="行为规范"></a>行为规范</h3><ul><li>请勿恶意 PVP。</li><li>请勿对其他玩家谩骂、阴阳怪气。</li><li>如有争端，请优先联系管理员，或将情况反馈到群内。</li><li>请不要在公屏或 QQ 群中吵架。</li><li>请不要频繁刷屏，包括但不限于反复询问问题或恶意刷屏。</li><li>请勿进行可能给他人带来困扰的行为。</li></ul><hr><h3 id="服务器使用指南"><a href="#服务器使用指南" class="headerlink" title="服务器使用指南"></a>服务器使用指南</h3><p>请查看服务器指令指南。</p><hr><h2 id="服务器信息"><a href="#服务器信息" class="headerlink" title="服务器信息"></a>服务器信息</h2><p>当前版本：<code>1.20.1</code><br>Forge 版本：<code>47.3.0</code></p><h3 id="生存服线路"><a href="#生存服线路" class="headerlink" title="生存服线路"></a>生存服线路</h3><ul><li>最新线路：<code>mc.ourcraft.cn</code></li><li>备用线路：<code>mc.ourworld.vip</code></li><li>北京备用线路：<code>bj.ourworld.vip</code></li><li>香港及海外专线：<code>back.ourworld.vip</code></li></ul><h3 id="创造服："><a href="#创造服：" class="headerlink" title="创造服："></a>创造服：</h3><blockquote><p>⚠️ **注意：**服务器 IP 可能会发生更改，如无法进入服务器，请查看最新群公告。</p></blockquote><blockquote><p> 恳请各位不要外传服务器地址，若要邀请朋友&#x2F;同学&#x2F;亲戚，请让他们加入官方群后进入。</p></blockquote><hr><h2 id="其他群"><a href="#其他群" class="headerlink" title="其他群"></a>其他群</h2><ul><li>OOPZ 频道：<a href="https://oopz.cn/i/GrOLdD">https://oopz.cn/i/GrOLdD</a></li></ul><hr><h2 id="STAFF-名单"><a href="#STAFF-名单" class="headerlink" title="STAFF 名单"></a>STAFF 名单</h2><ul><li><strong>OurCraft 服主</strong>：Hakutyan_bai  </li><li><strong>服务器技术支持</strong>：Hakutyan_bai  </li><li><strong>服务器提供方</strong>：Hakutyan_bai、KL_kuaile233  </li><li><strong>指令 &amp; 插件编写者</strong>：Hakutyan_bai  </li><li><strong>现任苟管理</strong>：Hakutyan_bai、KL_kuaile233</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>Y.C.W 筱雲の创意工坊</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>玩家手册</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Y.C.W 筱雲の创意工坊服务器</title>
     <link href="/2025/07/06/Y.C.W%20%E7%AD%B1%E9%9B%B2%E3%81%AE%E5%88%9B%E6%84%8F%E5%B7%A5%E5%9D%8A%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     <url>/2025/07/06/Y.C.W%20%E7%AD%B1%E9%9B%B2%E3%81%AE%E5%88%9B%E6%84%8F%E5%B7%A5%E5%9D%8A%E6%9C%8D%E5%8A%A1%E5%99%A8/</url>
